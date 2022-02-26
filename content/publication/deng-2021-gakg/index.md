@@ -8,13 +8,6 @@ authors:
 - Cheng Deng
 - Yuting Jia
 - admin
-- Chong Zhang
-- Jingyao Tang
-- Luoyi Fu
-- Weinan Zhang
-- Haisong Zhang
-- Xinbing Wang
-- Chenghu Zhou
 date: '2021-01-01'
 doi: ''
 
