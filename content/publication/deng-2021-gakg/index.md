@@ -45,7 +45,7 @@ featured: false
 # - name: Custom Link
 #   url: https://dl.acm.org/doi/abs/10.1145/3459637.3482299
 
-url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3459637.3482003'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
