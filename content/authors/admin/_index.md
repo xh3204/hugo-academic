@@ -6,7 +6,7 @@ title: Hui Xu (徐辉)
 superuser: true
 
 # Role/position/tagline
-role: Professor of Computer Science and Technology
+role: PhD Candidate of Computer Science and Technology
 
 # Organizations/Affiliations to show in About widget
 organizations:
