@@ -8,6 +8,13 @@ authors:
 - Cheng Deng
 - Yuting Jia
 - admin
+- Chong Zhang
+- Jingyao Tang
+- Luoyi Fu
+- Weinan Zhang
+- Haisong Zhang
+- Xinbing Wang
+- Chenghu Zhou
 date: '2021-01-01'
 doi: ''
 
@@ -22,7 +29,7 @@ publication_types:
 - '1'
 
 # Publication name and optional abbreviated publication name.
-publication: 'In *Proceedings of the 30th ACM International Conference on Information
+publication: '*Proceedings of the 30th ACM International Conference on Information
   & Knowledge Management*'
 publication_short: In *CIKM*
 
