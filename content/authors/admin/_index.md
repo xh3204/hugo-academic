@@ -62,6 +62,6 @@ email: ""
 highlight_name: true
 ---
 
-I obtained my bachelor's degree in computer science and technology from Hunan University in Changsha, Hunan Province in June 2019. Currently, I'm pursuing my doctoral degree in Computer Science in Acemap, IIOT Lab, at Shanghai Jiao Tong University, where I have the honor to be supervised by Prof. Luoyi Fu and Prof. Xinbing Wang. I am also selected into Wenjun Wu Honored Ph.D Class.
+I obtained my bachelor's degree in Communication Engineering from Beijing Jiao Tong University in June 2018. Currently, I'm pursuing my doctoral degree in Computer Science in Acemap, IIOT Lab, at Shanghai Jiao Tong University, where I have the honor to be supervised by Prof. Xinbing Wang.
 
-My research interests include knowledge graphs, social networks, and data mining. Specifically, I am devoted to investigating information extraction, constructing KG from academic text corpora, and finding the topology in complex networks.
+My research interests include graph neural networks, self-supervised learning, and data mining. Specifically, I am devoted to mining latent information and representation for complex graph structure data.
