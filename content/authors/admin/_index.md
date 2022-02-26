@@ -29,7 +29,7 @@ education:
   - course: PhD in Computer Science and Technology
     institution: Shanghai Jiao Tong University
     year: 2023
-  - course: BSc in Communication Engineering
+  - course: B.E. in Communication Engineering
     institution: Beijing Jiao Tong University
     year: 2018
 
