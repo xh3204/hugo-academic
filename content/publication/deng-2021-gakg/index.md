@@ -50,7 +50,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://dl.acm.org/doi/abs/10.1145/3459637.3482003'
+url_source: ''
 url_video: ''
 
 # Featured image

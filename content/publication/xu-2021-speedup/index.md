@@ -24,9 +24,8 @@ publication_types:
 - '1'
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proceedings of the 30th ACM International Conference on Information
-  & Knowledge Management*'
-publication_short: In *CIKM21*
+publication: '*Proceedings of the 30th ACM International Conference on Information & Knowledge Management*'
+publication_short: In *CIKM*
 
 abstract: 'Recent studies have shown that graph neural networks (GNNs) are vulnerable to unnoticeable adversarial perturbations, which largely confines their deployment in many safety-critical domains. Robust graph structure learning has been proposed to improve the GNN performance in the face of adversarial attacks. In particular, the low-rank methods are utilized to purify the perturbed graphs. However, these methods are mostly computationally expensive with O(n3) time complexity and O(n2) space complexity. We propose LRGNN, a fast and robust graph structure learning framework, which exploits the low-rank property as prior knowledge to speed up optimization. To eliminate adversarial perturbation, LRGNN decouples the adjacency matrix into a low-rank component and a sparse one, and learns by minimizing the rank of the first part while suppressing the second part. Its sparse variant is formed to reduce the memory footprint further. Experimental results on various attack settings have shown LRGNN acquires comparable robustness with the state-of-the-art much more efficiently, boasting a significant advantage on large-scale graphs.'
 
