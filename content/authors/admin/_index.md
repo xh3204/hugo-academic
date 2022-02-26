@@ -65,5 +65,3 @@ highlight_name: true
 I obtained my bachelor's degree in computer science and technology from Hunan University in Changsha, Hunan Province in June 2019. Currently, I'm pursuing my doctoral degree in Computer Science in Acemap, IIOT Lab, at Shanghai Jiao Tong University, where I have the honor to be supervised by Prof. Luoyi Fu and Prof. Xinbing Wang. I am also selected into Wenjun Wu Honored Ph.D Class.
 
 My research interests include knowledge graphs, social networks, and data mining. Specifically, I am devoted to investigating information extraction, constructing KG from academic text corpora, and finding the topology in complex networks.
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
