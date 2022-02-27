@@ -62,6 +62,6 @@ email: ""
 highlight_name: true
 ---
 
-I obtained my bachelor's degree in Communication Engineering from Beijing Jiao Tong University in June 2018. Currently, I'm pursuing my doctoral degree in Computer Science in Acemap, IIOT Lab, at Shanghai Jiao Tong University, where I have the honor to be supervised by Prof. Xinbing Wang.
+I obtained my bachelor's degree in Communication Engineering from Beijing Jiao Tong University in June 2018. Currently, I'm pursuing my doctoral degree in Computer Science in Acemap, IIOT Lab, at Shanghai Jiao Tong University, where I have the honor to be supervised by [Prof. Xinbing Wang](https://www.cs.sjtu.edu.cn/~wang-xb/) and [Prof. Liyao Xiang](http://xiangliyao.cn/).
 
 My research interests include graph neural networks, self-supervised learning, and data mining. Specifically, I am devoted to mining latent information and representation for complex graph structure data.
